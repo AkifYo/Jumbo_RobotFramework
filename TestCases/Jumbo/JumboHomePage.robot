@@ -1,10 +1,6 @@
 *** Settings ***
 Library  SeleniumLibrary
 
-
-
-
-
 *** Variables ***
 
 ${jumboHomePage}  https://www.jumbo.com/
